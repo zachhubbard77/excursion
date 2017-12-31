@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.download p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+#gray {
+    font-size: 21px;
+    color: gray;
+}
+
+#copy {
+    text-align: right;
+    color: gray;
+}
